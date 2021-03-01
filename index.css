@@ -1,0 +1,18 @@
+h1{
+ font: 39px;
+ text-align: center;
+ color: deeppink;
+}
+
+members>li{
+    text-align: center;
+}
+bio{
+    text-align: center;
+}
+img{
+    text-align: center;
+}
+body{
+    background-color: aquamarine;
+}
