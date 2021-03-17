@@ -1,18 +1,52 @@
+body{
+    background-color: rgb(190, 199, 198);
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+
+}
+p{
+    font-family: fantasy;
+
+
 h1{
- font: 39px;
- text-align: center;
- color: deeppink;
+    color: rgb(5, 5, 22);
+    text-align: center;
+    font-weight: 900;
+}
+h2{
+    color: rgb(30, 210, 210);
+    font-weight: 800;
+}
+h3{
+    color: rgb(42, 147, 165);
+    font-weight: 600;
+}
+h4{
+    color: darkgreen;
+    font-weight: 500;
+}
+ol.music{
+    height: 200px;
+    overflow: auto;
+    background-color: rgb(97, 221, 230);
+    width: 50%;
+    font-style: oblique;
+}
+ol.favorite{
+    list-style-type: lower-roman;
 }
 
-members>li{
-    text-align: center;
-}
-bio{
-    text-align: center;
-}
+
+
+  li {
+    
+    color: rgb(34, 17, 114);
+
+  }
+  
+
 img{
-    text-align: center;
-}
-body{
-    background-color: aquamarine;
+    width: 400px;
+    height: auto;
 }
